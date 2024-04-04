@@ -1,0 +1,5 @@
+MDK-ARM/.vscode/**.log
+MDK-ARM/.vscode/**.log.lock
+MDK-ARM/DebugConfig
+MDK-ARM/stm32_eeprom_at24c256_i2c
+MDK-ARM/RTE
